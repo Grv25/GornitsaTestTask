@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\SPinfo\SPinfo\bin\Debug\SP_info.exe.config
+d:\documents\visual studio 2015\Projects\SPinfo\SPinfo\bin\Debug\SP_info.exe
+d:\documents\visual studio 2015\Projects\SPinfo\SPinfo\bin\Debug\SP_info.pdb
+d:\documents\visual studio 2015\Projects\SPinfo\SPinfo\obj\Debug\SP_info.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\SPinfo\SPinfo\obj\Debug\SPinfo.Form1.resources
+d:\documents\visual studio 2015\Projects\SPinfo\SPinfo\obj\Debug\SP_info.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\SPinfo\SPinfo\obj\Debug\SP_info.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\SPinfo\SPinfo\obj\Debug\SP_info.exe
+d:\documents\visual studio 2015\Projects\SPinfo\SPinfo\obj\Debug\SP_info.pdb
